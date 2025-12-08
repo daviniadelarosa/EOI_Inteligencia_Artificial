@@ -66,6 +66,76 @@ El **prompt** es la instrucción que damos al modelo. La calidad del resultado d
 
 #### Actúa como un empleado de marketing digital. Redacta un email de 150 palabras para PYMEs en Madrid, presentando un nuevo servicio de consultoría en IA. Incluye 3 beneficios claros, tono profesional y una llamada a la acción.
 
+
+---
+
+## Buenas prácticas de uso en PYMEs
+- **No introducir datos sensibles:** proteger información de clientes y empleados.
+- **Revisión humana:** validar antes de enviar o publicar.
+- **Uso responsable:** transparencia en contenidos generados con IA.
+- **Documentación interna:** crear guías de prompts y políticas de uso.
+- **Medición de impacto:** evaluar tiempo ahorrado, calidad y satisfacción.
+
+---
+
+## Conexión con el trabajo final
+Los aprendizajes de este módulo se integran en:
+- **Guía de prompts corporativos:** estándar interno para tareas clave.
+- **Evaluación comparativa de herramientas:** decidir qué modelo usar en cada área.
+- **Política de uso responsable:** marco de gobernanza para la digitalización.
+
+# Ejemplos de Prompts por Sector
+
+## Comercio minorista
+- **Email de promoción**
+  > Actúa como especialista en marketing para comercio minorista.  
+  > Redacta un email de 150 palabras dirigido a clientes habituales de una tienda de ropa en Madrid.  
+  > Incluye una promoción de temporada (20% descuento), 3 beneficios del producto y una llamada a la acción clara.  
+  > Usa un tono cercano y profesional.  
+
+- **Publicación en redes sociales**
+  > Genera un post para Instagram de una tienda de alimentación local.  
+  > El objetivo es anunciar la llegada de productos ecológicos.  
+  > Usa un tono fresco y amigable, incluye 3 hashtags relevantes y una invitación a visitar la tienda.  
+
+---
+
+## Servicios profesionales
+- **Documento resumen**
+  > Actúa como consultor en transformación digital.  
+  > Resume en 300 palabras las principales ventajas de implementar IA en una Pyme de servicios.  
+  > Organiza el texto en 3 apartados: eficiencia, innovación y competitividad.  
+  > Usa un tono formal y orientado a directivos.  
+
+- **Guion de llamada comercial**
+  > Redacta un guion de 2 minutos para una llamada telefónica de una asesoría fiscal a potenciales clientes.  
+  > Incluye: presentación breve, 3 beneficios del servicio, ejemplo de ahorro y cierre con invitación a reunión.  
+  > Usa un tono profesional y persuasivo.  
+
+---
+
+## Industria ligera
+- **Informe técnico**
+  > Actúa como ingeniero de procesos.  
+  > Redacta un informe de 400 palabras sobre cómo la IA puede optimizar la gestión de inventario en una empresa de fabricación de muebles.  
+  > Incluye ejemplos de predicción de demanda, reducción de costes y mejora en tiempos de entrega.  
+  > Usa un tono técnico y estructurado.  
+
+- **Ideas de innovación**
+  > Genera 5 ideas innovadoras para aplicar IA en un taller mecánico de tamaño medio.  
+  > Clasifica las ideas en: atención al cliente, gestión de repuestos, mantenimiento predictivo, formación de empleados y marketing.  
+  > Usa un formato de lista con explicación breve de cada idea.  
+
+
+# Casos de uso de IA por sector en PYMEs
+
+| Sector              | Casos de uso principales                                                                 | Ejemplos prácticos                                                                 |
+|---------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| **Comercio minorista** | - Marketing y promociones<br>- Atención al cliente<br>- Gestión de inventario           | - Emails de ofertas personalizadas<br>- Chatbots para consultas<br>- Predicción de demanda |
+| **Servicios profesionales** | - Documentación y reporting<br>- Captación de clientes<br>- Formación interna        | - Resúmenes de informes<br>- Guiones de llamadas comerciales<br>- Microcursos generados con IA |
+| **Industria ligera** | - Optimización de procesos<br>- Mantenimiento predictivo<br>- Innovación de producto     | - Análisis de inventario<br>- Alertas de fallos en maquinaria<br>- Generación de ideas de mejora |
+
+
 #### Ejercicios
 
 ##### Ejercicio 1.2 A
