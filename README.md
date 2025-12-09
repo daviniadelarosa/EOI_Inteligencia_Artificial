@@ -1,6 +1,6 @@
 # Inteligencia artificial para PYMES
 
-![img](./assets/logo.jpg)
+![img](./assets/logo.png)
 
 # Teoría y Recursos
 
