@@ -55,11 +55,11 @@ Pasos:
 
 Listado: operaciones, marketing, ventas, atención, finanzas, RR. HH.
 
-Dolores: tiempo, coste, errores, esperas.
+Retos: tiempo, coste, errores, esperas.
 
 2. Ideación de casos de uso:
 
-Para cada dolor: una posible solución con IA (ej.: “resumen automático de correos de clientes”).
+Para cada reto: una posible solución con IA (ej.: “resumen automático de correos de clientes”).
 
 3. Priorización rápida (matriz 2x2):
 
