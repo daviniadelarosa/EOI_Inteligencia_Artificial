@@ -26,7 +26,7 @@ Diseña el prompt que le mandarías a una herramienta de IA generativa para que 
     Actúa como copywriter de email marketing para una pequeña tienda de productos ecológicos llamada EcoBarrio. Redacta un email promocional en español anunciando una oferta del 15% de descuento en cestas de Navidad ecológicas. El tono debe ser cercano, claro y profesional. Estructura el email con: asunto atractivo, saludo general, uno o dos párrafos breves explicando la oferta y destacando 2 o 3 beneficios (productos locales, saludables, regalo perfecto, etc.), una llamada a la acción con un enlace simulado (por ejemplo “Haz tu pedido aquí”), y un cierre cordial con la firma “Equipo EcoBarrio”. No uses jerga técnica ni frases demasiado largas.
 
 ### Email resultante (ejemplo resuelto)
---
+
 Asunto: Descubre nuestras cestas ecológicas con 15% de descuento estas fiestas
 
 Hola,
@@ -72,36 +72,36 @@ El email debe incluir:
 
 Prompt plantilla a la IA:
 
-    Actúa como responsable de atención al cliente de una pyme de mantenimiento informático llamada TecnoSoporte Pyme. Te daré el texto de la consulta de un cliente y deberás redactar una respuesta por email en español, con tono profesional y cercano. La respuesta debe:
+Actúa como responsable de atención al cliente de una pyme de mantenimiento informático llamada TecnoSoporte Pyme. Te daré el texto de la consulta de un cliente y deberás redactar una respuesta por email en español, con tono profesional y cercano. La respuesta debe:
 
-    - Agradecer el contacto.
+- Agradecer el contacto.
 
-    - Resumir la información clave (horario de atención, tiempos de respuesta o tarifas básicas, según lo que pregunte el cliente).
+- Resumir la información clave (horario de atención, tiempos de respuesta o tarifas básicas, según lo que pregunte el cliente).
 
-    - Usar frases cortas y claras.
+- Usar frases cortas y claras.
 
-    - Invitar a dar el siguiente paso (por ejemplo, proponer una llamada rápida o solicitar algunos datos para elaborar un presupuesto).
+- Invitar a dar el siguiente paso (por ejemplo, proponer una llamada rápida o solicitar algunos datos para elaborar un presupuesto).
 
-    - Cerrar con una despedida formal y firma “Equipo TecnoSoporte Pyme”.
+- Cerrar con una despedida formal y firma “Equipo TecnoSoporte Pyme”.
 
-    - No inventes datos absurdos ni promesas irreales; mantente en tiempos razonables para una pyme (por ejemplo, respuesta a incidencias en menos de 4 horas en horario laboral).
+- No inventes datos absurdos ni promesas irreales; mantente en tiempos razonables para una pyme (por ejemplo, respuesta a incidencias en menos de 4 horas en horario laboral).
 
-    - Consulta del cliente:
-    “[PEGAR AQUÍ TEXTO DEL EMAIL RECIBIDO]”
+- Consulta del cliente:
+“[PEGAR AQUÍ TEXTO DEL EMAIL RECIBIDO]”
 
 ### Email generado para la consulta concreta
 
-    Asunto: Información sobre horarios y tiempos de respuesta
+Asunto: Información sobre horarios y tiempos de respuesta
 
-    Buenos días,
+Buenos días,
+Muchas gracias por ponerte en contacto con TecnoSoporte Pyme y por tu interés en nuestros servicios
+de mantenimiento informático para pequeñas empresas.
 
-    Muchas gracias por ponerte en contacto con TecnoSoporte Pyme y por tu interés en nuestros servicios de mantenimiento informático para pequeñas empresas.
+Nuestro horario de atención es de lunes a viernes, de 9:00 a 18:00. Dentro de este horario, atendemos las incidencias urgentes en un tiempo máximo de 4 horas y las solicitudes no urgentes en un plazo de 24 horas laborables.
 
-    Nuestro horario de atención es de lunes a viernes, de 9:00 a 18:00. Dentro de este horario, atendemos las incidencias urgentes en un tiempo máximo de 4 horas y las solicitudes no urgentes en un plazo de 24 horas laborables.
+Si nos facilitas el número de equipos que gestionáis y el tipo de soporte que necesitas (remoto, presencial o mixto), podremos prepararte una propuesta ajustada a tu negocio y comentar los detalles en una breve llamada.
 
-    Si nos facilitas el número de equipos que gestionáis y el tipo de soporte que necesitas (remoto, presencial o mixto), podremos prepararte una propuesta ajustada a tu negocio y comentar los detalles en una breve llamada.
+Quedamos a tu disposición para cualquier otra duda.
 
-    Quedamos a tu disposición para cualquier otra duda.
-
-    Un cordial saludo,
-    Equipo TecnoSoporte Pyme
+Un cordial saludo,
+Equipo TecnoSoporte Pyme
