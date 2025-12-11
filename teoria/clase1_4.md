@@ -65,14 +65,6 @@ DALL·E es un modelo de inteligencia artificial desarrollado por **OpenAI** que 
 
 ---
 
-## Recursos en vídeo
-Para reforzar la práctica, se recomienda visualizar tutoriales recientes sobre DALL·E:
-- [Tutorial DALL·E 2: cómo empezar a crear imágenes con IA](https://www.youtube.com/watch?v=93xPknglfkw)  
-- [DALL·E 3 explicado: mejores prompts y técnicas](https://www.youtube.com/watch?v=q6UuF--ZOMY)  
-- [Crea imágenes únicas con DALL·E paso a paso](https://www.youtube.com/watch?v=zmRmctU2PG8)  
-
----
-
 ## Práctica: Ideas y visuales para la Pyme
 ### Objetivo
 Generar un conjunto de ideas de campaña para la Pyme y crear una imagen con DALL·E que represente una de esas ideas.
