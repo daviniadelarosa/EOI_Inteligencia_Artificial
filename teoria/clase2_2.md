@@ -44,8 +44,11 @@ Hay extensiones como:
 Permiten pegar HTML directamente, pero no son necesarias si solo envías un email puntual.
 
 ✅ IMPORTANTE: Qué NO debes hacer
+
 ❌ No pegues el código HTML directamente en Gmail.
+
 Gmail lo interpreta como texto y lo rompe.
 
 ❌ No uses estilos en <style> porque Gmail los elimina.
+
 Por eso te preparé el email con estilos inline, que sí respeta.
