@@ -24,6 +24,7 @@ Necesitas pegar el resultado visual, no el código.
 ### ✅ OPCIÓN B: Usar una herramienta online (si no quieres crear archivos)
 - Puedes usar un visor HTML online como:
 [html-online.com/editor/](html-online.com/editor/)
+
 [codebeautify.org/htmlviewer](codebeautify.org/htmlviewer)
 
 Pasos:

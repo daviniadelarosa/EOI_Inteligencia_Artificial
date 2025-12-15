@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ofertas de Navidad en Fontanería</title>
+
+    <style>
+        :root {
+            --verde-oscuro: #558A64;
+            --verde-medio: #41B066;
+            --turquesa: #41B0B0;
+            --blanco: #ffffff;
+            --gris-claro: #f4f7f6;
+        }
+
+        * {
+            box-sizing: border-box;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        body {
+            margin: 0;
+            background-color: var(--gris-claro);
+            color: #333;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--verde-oscuro), var(--turquesa));
+            color: var(--blanco);
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0 0 10px;
+            font-size: 2.2rem;
+        }
+
+        header p {
+            font-size: 1.1rem;
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .contenedor {
+            max-width: 1000px;
+            margin: 40px auto;
+            padding: 0 20px;
+        }
+
+        .ofertas {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 50px;
+        }
+
+        .oferta {
+            background-color: var(--blanco);
+            border-radius: 10px;
+            padding: 25px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+            border-top: 6px solid var(--verde-medio);
+        }
+
+        .oferta h3 {
+            margin-top: 0;
+            color: var(--verde-oscuro);
+        }
+
+        .descuento {
+            font-size: 2rem;
+            font-weight: bold;
+            color: var(--turquesa);
+            margin: 10px 0;
+        }
+
+        .newsletter {
+            background-color: var(--verde-oscuro);
+            color: var(--blanco);
+            border-radius: 12px;
+            padding: 40px 25px;
+            text-align: center;
+        }
+
+        .newsletter h2 {
+            margin-top: 0;
+            font-size: 1.8rem;
+        }
+
+        .newsletter p {
+            max-width: 600px;
+            margin: 0 auto 25px;
+            font-size: 1.05rem;
+        }
+
+        form {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 15px;
+        }
+
+        input[type="text"],
+        input[type="email"] {
+            padding: 12px 15px;
+            border-radius: 6px;
+            border: none;
+            width: 260px;
+            max-width: 100%;
+        }
+
+        button {
+            background-color: var(--turquesa);
+            color: var(--blanco);
+            border: none;
+            padding: 12px 25px;
+            border-radius: 6px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: var(--verde-medio);
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9rem;
+            color: #666;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>🎄 Ofertas de Navidad en Fontanería</h1>
+        <p>
+            Esta Navidad equipa tus proyectos con los mejores productos de fontanería.
+            Suscríbete a nuestra newsletter y accede a descuentos exclusivos.
+        </p>
+    </header>
+
+    <main class="contenedor">
+
+        <section class="ofertas">
+            <div class="oferta">
+                <h3>Tuberías y conexiones</h3>
+                <p class="descuento">-3 %</p>
+                <p>Materiales resistentes y duraderos para todo tipo de instalaciones.</p>
+            </div>
+
+            <div class="oferta">
+                <h3>Grifería</h3>
+                <p class="descuento">-5 %</p>
+                <p>Grifos modernos y eficientes para baños y cocinas.</p>
+            </div>
+
+            <div class="oferta">
+                <h3>Válvulas y llaves de paso</h3>
+                <p class="descuento">-8 %</p>
+                <p>Control total del flujo de agua con la máxima seguridad.</p>
+            </div>
+        </section>
+
+        <section class="newsletter">
+            <h2>Suscríbete y ahorra esta Navidad 🎁</h2>
+            <p>
+                Los nuevos suscriptores reciben descuentos exclusivos del <strong>3 % al 8 %</strong>
+                en artículos de fontanería durante la campaña navideña.
+            </p>
+
+            <form>
+                <input type="text" placeholder="Nombre" required>
+                <input type="email" placeholder="Correo electrónico" required>
+                <button type="submit">Quiero mis descuentos</button>
+            </form>
+        </section>
+
+    </main>
+
+    <footer>
+        © 2025 · Tu Ferretería · Ofertas válidas solo para suscriptores de la newsletter
+    </footer>
+
+</body>
+</html>
