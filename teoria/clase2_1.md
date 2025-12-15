@@ -35,9 +35,9 @@ DALL·E es uno de los generadores más avanzados de imágenes a partir de texto.
 - Ilustraciones, fotorrealismo, conceptos creativos, mockups, composiciones.
 - Edición de imágenes existentes mediante inpainting y outpainting.
 
-Puntos a destacar en tu presentación:
+Puntos a destacar:
 
-- Ayuda a no depender de bancos de imágenes caros.
+- Intenta no depender de bancos de imágenes que no se ajusten a tus necesidades.
 - Permite generar assets coherentes con el branding.
 - Es extremadamente fácil: solo hay que describir lo que quieres.
 
