@@ -1,4 +1,4 @@
-# 
+# 2.1 Creación de contenido para Marketing y Redes Sociales con ChatGPT y generación de imágenes con DALL·E
 
 ## INTRODUCCIÓN 
 ###  1. Cómo la IA transforma el marketing y las redes sociales
