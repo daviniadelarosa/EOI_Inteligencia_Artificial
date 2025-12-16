@@ -132,7 +132,7 @@ Idea importante:
 - No todas las PYMES llegan aquí desde redes sociales directamente.
 
 ### 4. Métricas relevantes para PYMES (no todas importan)
-** Error común: “Cuantos más datos, mejor”**
+**Error común: “Cuantos más datos, mejor”**
 
 Realidad:
 
