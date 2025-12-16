@@ -265,4 +265,4 @@ Clave:
 
 - La mejora es continua
 
-**La IA ayuda a convertir el marketing en un proceso más sencillo, rápido e inteligente.*
+**La IA ayuda a convertir el marketing en un proceso más sencillo, rápido e inteligente.**
