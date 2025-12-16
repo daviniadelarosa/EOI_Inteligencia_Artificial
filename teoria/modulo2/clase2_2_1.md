@@ -14,7 +14,7 @@ La mayoría de las PYMES se enfrentan a estos problemas:
 - Muchas tareas a la vez
 - Necesidad de “estar en redes”
 
-** La IA no aparece para sustituir personas, aparece para: ahorrar tiempo, reducir errores y ayudar a tomar mejores decisiones.**
+**La IA no aparece para sustituir personas, aparece para: ahorrar tiempo, reducir errores y ayudar a tomar mejores decisiones.**
 
 ❌ Problemas habituales sin IA y sin profesionales especializados
 
