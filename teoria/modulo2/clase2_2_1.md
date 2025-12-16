@@ -155,7 +155,6 @@ La IA ayuda a:
 
 El ciclo correcto en marketing con IA
 
-Aquí introduces el marco mental que usarás toda la clase.
 
 ## 3. El ciclo correcto
 

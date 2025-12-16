@@ -3,7 +3,7 @@
 ## Métricas y Segmentación en Marketing Digital (en PYMES)
 
 ### 1. Por qué son importantes las métricas y la segmentación
-**Idea central:**: Lo que no se mide, no se puede mejorar. Y lo que no se segmenta, se diluye.
+**Idea central:** Lo que no se mide, no se puede mejorar. Y lo que no se segmenta, se diluye.
 
 Muchas PYMES:
 
