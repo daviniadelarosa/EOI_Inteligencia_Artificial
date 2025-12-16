@@ -158,7 +158,7 @@ Realidad:
 
 - Visitas al perfil
 
-- Si el objetivo es ventas:
+4. Si el objetivo es ventas:
 
 - Conversiones
 
