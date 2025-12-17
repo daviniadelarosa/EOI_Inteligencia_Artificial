@@ -1,6 +1,6 @@
 # 2.4 Personalización de mensajes y segmentación de audiencias con IA 
 
-Vamos a ver los pasos que se deben seguir, usando la IA, para segmentar: 
+Vamos a ver los pasos que se pueden seguir, usando la IA, para segmentar: 
 
 ## 1. Define objetivo y métrica
 
