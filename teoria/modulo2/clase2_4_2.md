@@ -191,6 +191,6 @@ DM 'ALTA' y te llamo HOY. Link en bio para guía GRATIS de primeros pasos. 💪
 
 [Openges](https://www.openges.es/)
 
-[Hootsuite](https://www.youtube.com/watch?v=p78bMWAY9lI)
+[Video_Hootsuite](https://www.youtube.com/watch?v=p78bMWAY9lI)
 
-[Canva](https://www.youtube.com/watch?v=FdWJghffPjw)
+[Video_Canva](https://www.youtube.com/watch?v=FdWJghffPjw)
