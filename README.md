@@ -28,5 +28,8 @@
 | [Clase2_2_2](./teoria/modulo2/clase2_2_2.md)                   | Ejercicio y vídeo |
 | [Clase2_3_1](./teoria/modulo2/clase2_3_1.md)                   | 2.3 Análisis de resultados y optimización con IA |
 | [Clase2_3_2](./teoria/modulo2/clase2_3_2.md)                   | Ejercicio y vídeo |
-
+| [Clase2_4_1](./teoria/modulo2/clase2_4_1.md)                   | 2.4 Personalización de mensajes y segmentación de audiencias con IA  |
+| [Clase2_4_2](./teoria/modulo2/clase2_4_2.md)                   | Ejemplo y vídeos |
  
+
+
