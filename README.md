@@ -31,7 +31,7 @@
 | [Clase2_4_1](./teoria/modulo2/clase2_4_1.md)                   | 2.4 Personalización de mensajes y segmentación de audiencias con IA  |
 | [Clase2_4_2](./teoria/modulo2/clase2_4_2.md)                   | Ejemplo y vídeos |
 | [Clase2_5_1](./teoria/modulo2/clase2_5_1.md)                   | 2.5 Uso responsable de la IA en contenidos y redes sociales                                      |
-| [Clase2_6_2](./teoria/modulo2/clase2_6_2.md)                   | 2.6 La IA en marketing digital. Presentaciones de alto impacto |
+| [Clase2_6_2](./teoria/modulo2/clase2_6_1.md)                   | 2.6 La IA en marketing digital. Presentaciones de alto impacto |
 
 
 ## Módulo 3: Propuestas comerciales personalizadas
