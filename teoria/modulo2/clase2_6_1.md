@@ -28,7 +28,9 @@ Para que el dueño de una Pyme impacte, no debe hablar de "qué hace", sino de "
 
 #### Prompt: 
 
-"Actúa como un Consultor Senior de Marketing B2B especializado en el sector industrial. Crea una presentación de 8 diapositivas para mi empresa de 'Limpieza Industrial X'. El tono debe ser profesional, técnico y que transmita máxima confianza.
+"Crea un Powerpoint con la siguiente información:
+
+Actúa como un Consultor Senior de Marketing B2B especializado en el sector industrial. Crea una presentación de 8 diapositivas para mi empresa de 'Limpieza Industrial FABLIMP' que se dedica a la limpieza de naves industriales, fábricas y maquinaria especializada en general. El tono debe ser profesional, técnico y que transmita máxima confianza, ya que se trata de una presentación B2B:
 
 Estructura requerida:
 
