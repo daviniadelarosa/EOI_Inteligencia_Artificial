@@ -110,6 +110,8 @@ Tenemos las siguientes dos frases:
 
 #### Error de Corrector (WhatsApp): 
 
+[img](../../assets/whatsapp.png)
+
 - Lo que querías decir: "Te paso el precio del lote".
 
 - Lo que envió el corrector: "Te paso el precio del loto".
