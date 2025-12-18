@@ -1,4 +1,4 @@
-# La IA en marketing digital. Presentaciones de alto impacto
+# 2.6 La IA en marketing digital. Presentaciones de alto impacto
 
 ## 1. Puntos para una Presentación de Impacto
 

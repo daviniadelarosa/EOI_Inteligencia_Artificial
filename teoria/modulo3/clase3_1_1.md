@@ -1,4 +1,4 @@
-# 3.1 Generación de propuestas y presupuestos con ChatGPT y otras IA.
+# 3.1 Generación de propuestas y presupuestos con ChatGPT y otras IA
 
 ## 1. Pautas para Propuestas y Presupuestos de Impacto (B2B): Usando un ejemplo
 
