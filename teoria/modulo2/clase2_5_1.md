@@ -77,7 +77,7 @@ Ojo con lo siguiente, aunque sólo son algunos ejemplos:
 
 - **Uso responsable:** Pídele a la IA la estructura, pero cambia las palabras. Si tú no dices "sumérgete en nuestra experiencia" cuando un cliente entra en tu tienda, no lo pongas en tu Instagram.
 
-### Tabla Comparativa: 
+### Tabla Resumen: 
 
 
 | Desafío              | Riesgo para la Pyme                                                                 | Solución Responsable                                                                                  |
