@@ -85,3 +85,44 @@ Ojo con lo siguiente, aunque sólo son algunos ejemplos:
 | Derechos de Autor     | No puedes registrar la imagen como marca; cualquiera puede copiarla legalmente.     | Usar la IA para inspiración, pero asegurar que un humano intervenga el diseño final.                  |
 | Alucinaciones y Datos | Publicidad engañosa, multas o pérdida de credibilidad por datos inventados.         | Doble verificación: Comprobar cada cifra, ley o fecha en fuentes oficiales externas.                  |
 | Pérdida de Esencia    | Tu marca se vuelve "invisible" y suena igual que la de toda tu competencia.         | Filtro de marca: Reescribir los textos de la IA con anécdotas reales y lenguaje local.                 |
+
+### Ejemplo
+
+Tenemos las siguientes dos frases: 
+
+1. “Nuestro objetivo es ofrecer soluciones innovadoras que satisfagan las necesidades de nuestros clientes.”
+
+2. “Mientras más simple es la idea, más fácil es entender el mercado y hacerla funcionar.”
+
+¿Cuál ha sido generada por IA?
+
+## 3. La analogía del Corrector Automático
+
+### A. El concepto técnico simplificado: "El juego de la probabilidad"
+
+- **La IA no sabe de qué habla:** Igual que el corrector de WhatsApp no sabe si estás hablando con tu madre o con un proveedor, la IA no tiene "consciencia".
+
+- **Probabilidad vs. Verdad:** La IA es una máquina de probabilidad. Si escribes "Buenos...", la IA sabe que hay un 90% de probabilidad de que la siguiente palabra sea "días". No es que sepa que es de día, es que ha leído esa combinación millones de veces.
+
+- **El riesgo:** Cuando la IA no sabe la respuesta, "rellena" el hueco con la palabra que estadísticamente suena mejor, aunque sea mentira. Eso es una alucinación.
+
+### B. Material de Apoyo: Ejemplo "WhatsApp vs. IA"
+
+#### Error de Corrector (WhatsApp): 
+
+- Lo que querías decir: "Te paso el precio del lote".
+
+- Lo que envió el corrector: "Te paso el precio del loto".
+
+- Resultado: Una risa o una pequeña aclaración.
+
+
+#### Error de "Corrector" (IA en Publicidad): * Lo que querías decir: "Hacemos envíos a toda la provincia".
+
+- Lo que escribió la IA: "Hacemos envíos a toda la península e islas gratis".
+
+- Resultado: Pérdida de dinero, clientes enfadados y un problema legal por publicidad engañosa.
+
+"El corrector es un apoyo o ayuda, no un autor. Si tu móvil escribe algo inapropiado, no vas al servicio técnico a quejarte, pides perdón tú. 
+Con la IA en tu Pyme es igual: si ChatGPT inventa una oferta que no puedes cumplir, el cliente no le va a reclamar a OpenAI, te va a poner la hoja de reclamaciones a ti. 
+La IA pone las letras, pero tú pones la firma."
