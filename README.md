@@ -39,4 +39,7 @@
 | Teoría                                                    | Contenido                                          |
 | --------------------------------------------------------- | -------------------------------------------------- |
 | [Clase3_1_1](./teoria/modulo3/clase3_1_1.md)                   | 3.1 Generación de propuestas y presupuestos con ChatGPT y otras IA  |
+| [Clase3_2_1](./teoria/modulo3/clase3_2_1.md)                   | 3.2 Redacción de descripciones comerciales e emails personalizados.  |
+| [Clase3_2_2](./teoria/modulo3/clase3_2_2.md)                   | Ejercicio y vídeos  |
+
 
