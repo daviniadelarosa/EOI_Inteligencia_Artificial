@@ -16,9 +16,9 @@ La mayoría de las Pymes sufren de "Invisibilidad por Genéricos". Al intentar s
 
 ### El Cambio de Paradigma: De Creador a Editor
 
-**Antes, el proceso era: Pensar → Escribir → Corregir -> Repetir**
+**Antes, el proceso era: Pensar → Escribir → Corregir → Repetir**
 
-**Ahora, el proceso es: Instruir (Prompt) → Generar → Editar ->Repetir**
+**Ahora, el proceso es: Instruir (Prompt) → Generar → Editar → Repetir**
 
 #### La Regla del IA/Alma
 
