@@ -41,5 +41,8 @@
 | [Clase3_1_1](./teoria/modulo3/clase3_1_1.md)                   | 3.1 Generación de propuestas y presupuestos con ChatGPT y otras IA  |
 | [Clase3_2_1](./teoria/modulo3/clase3_2_1.md)                   | 3.2 Redacción de descripciones comerciales e emails personalizados.  |
 | [Clase3_2_2](./teoria/modulo3/clase3_2_2.md)                   | Ejercicio y vídeos  |
+| [Clase3_3_1](./teoria/modulo3/clase3_3_1.md)                   | 3.3: Plantillas Inteligentes y Refinamiento Comercial  |
+| [Clase3_3_2](./teoria/modulo3/clase3_3_2.md)                   | Ejercicios  |
+| [Clase3_4_1](./teoria/modulo3/clase3_4_1.md)                   | 3.4: Ajuste y Reutilización de Propuestas |
 
 
