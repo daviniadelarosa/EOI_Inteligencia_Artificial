@@ -99,7 +99,7 @@ Para que una instrucción sea realmente una "plantilla inteligente", debe tener 
 
 - Objetivo: Crear una necesidad urgente de compra.
 
-**3. **Beneficio tras beneficio (Escalera de Valor)**
+**3. Beneficio tras beneficio (Escalera de Valor)**
 - Qué es: No quedarse en la característica técnica, sino profundizar en qué gana el cliente realmente. Se aplica la pregunta: "¿Y eso qué significa para ti?".
 
 El proceso:
