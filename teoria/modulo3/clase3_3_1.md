@@ -172,6 +172,7 @@ Ha sido diseñado usando la estructura C-R-E-A que vimos antes, integrando los t
 **El Prompt:**
 
 **--------------------------------------------------**
+
 "El Transformador de Ofertas Pro"
 **Copia todo lo que hay entre las líneas y rellena solo los datos del final.**
 
@@ -202,8 +203,8 @@ Su Problema principal: [Ej: Tiene el local vacío los martes y miércoles]
 Mi Producto/Servicio: [Ej: Pack de publicidad en Instagram local]
 
 El Quick Win (Consejo rápido): [Ej: Un truco para optimizar su ficha de Google Maps]
-**--------------------------------------------------**
 
+**--------------------------------------------------**
 
 ### Ejemplo de cómo quedaría el resultado (Sector: Instalador de Placas Solares)
 Si rellenamos los datos, la IA generará algo así de potente:
