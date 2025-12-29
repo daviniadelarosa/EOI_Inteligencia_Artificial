@@ -46,3 +46,12 @@
 | [Clase3_4_1](./teoria/modulo3/clase3_4_1.md)                   | 3.4: Ajuste y Reutilización de Propuestas |
 | [Clase3_5_1](./teoria/modulo3/clase3_5_1.md)                   | 3.5 Privacidad y tratamiento de datos en contenidos personalizados  |
 | [Clase3_5_2](./teoria/modulo3/clase3_5_2.md)                   | Ejemplos y herramientas  |
+
+
+## Módulo 4: 4. IA en Atención al Cliente y Ventas
+
+| Teoría                                                    | Contenido                                          |
+| --------------------------------------------------------- | 
+| [Clase4_1_1](./teoria/modulo4/clase4_1_1.md)                   | 4.1 Análisis de sentimiento con ChatGPT y Perplexity  |
+| [Clase4_1_2](./teoria/modulo4/clase4_1_2.md)                   | EEjemplos prácticos  |
+| [Clase4_1_3](./teoria/modulo4/clase4_1_3.md)                   | Ejemplo en Python  |
