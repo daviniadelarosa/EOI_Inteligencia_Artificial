@@ -48,7 +48,7 @@ def ejecutar_demo(input_file, output_file):
 # ejecutar_demo('comentarios_pyme.xlsx', 'resultado_sentimiento.xlsx')
 ```
 
-## 3. Puntos clave para tu "Pitch" en la Demo
+## 3. Puntos clave
 Veamos el valor que tiene para marketing esto: 
 
 - Más allá de las Palabras Clave: Veamos por ejemplo el sarcasmo ("excelentes profesionales"), la IA entiende el contexto, no solo busca palabras en una lista.
