@@ -51,7 +51,7 @@
 ## Módulo 4: 4. IA en Atención al Cliente y Ventas
 
 | Teoría                                                    | Contenido                                          |
-| --------------------------------------------------------- | 
+| --------------------------------------------------------- | -------------------------------------------------- | 
 | [Clase4_1_1](./teoria/modulo4/clase4_1_1.md)                   | 4.1 Análisis de sentimiento con ChatGPT y Perplexity  |
 | [Clase4_1_2](./teoria/modulo4/clase4_1_2.md)                   | EEjemplos prácticos  |
 | [Clase4_1_3](./teoria/modulo4/clase4_1_3.md)                   | Ejemplo en Python  |
