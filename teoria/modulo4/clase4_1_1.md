@@ -83,7 +83,7 @@ Algunas opciones para decidir dónde invertir según su canal principal:
 | Reuniones (Voz)   | Transcripciones        | Refinar el pitch de ventas y detectar objeciones reales. |
 | Reviews           | Google / Amazon       | Inteligencia competitiva (qué odian de mi competencia).  |
 
-## 5. Ejercicio de reflexión para los alumnos:
+## 5. Ejercicio de reflexión:
 
 Elige un canal donde de tu empresa en el que se reciban más quejas. Si pudieras extraer automáticamente los 3 motivos emocionales por los que los clientes se van, ¿cuánto dinero ahorraríais en captación de nuevos clientes el próximo trimestre? (Se trata de una estimación, porque puede ser que no sea un cálculo directo)
 
