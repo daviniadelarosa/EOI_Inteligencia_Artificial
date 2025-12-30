@@ -53,5 +53,5 @@
 | Teoría                                                    | Contenido                                          |
 | --------------------------------------------------------- | -------------------------------------------------- | 
 | [Clase4_1_1](./teoria/modulo4/clase4_1_1.md)                   | 4.1 Análisis de sentimiento con ChatGPT y Perplexity  |
-| [Clase4_1_2](./teoria/modulo4/clase4_1_2.md)                   | EEjemplos prácticos  |
+| [Clase4_1_2](./teoria/modulo4/clase4_1_2.md)                   | Ejemplos prácticos  |
 | [Clase4_1_3](./teoria/modulo4/clase4_1_3.md)                   | Ejemplo en Python  |
