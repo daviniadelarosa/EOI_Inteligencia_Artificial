@@ -31,6 +31,12 @@ Pasos simples para hacer una práctica:
 
 - Probar el chat a la derecha y ver cómo la IA responde preguntas complejas usando solo ese documento.
 
+Ejemplo Restaurante : 
+
+- Menú en PDF: [menu](../../assets/menu.pdf)
+
+- Prompt: "Eres un asistente virtual amable del restaurante Casa Carmen. Tu objetivo es ayudar a los clientes con dudas sobre el menú, precios y platos. Si no sabes algo, responde educadamente que no tienes esa información."
+
 ### Ejercicio
 
 "El Reto de los 15 minutos": Inventa una Pyme ficticia (ej. una clínica dental). Deben escribir en un bloc de notas 5 servicios y sus precios. Luego, deben configurar un bot en Voiceflow, "alimentarlo" con ese texto y demostrar que el bot puede explicar los precios y dar consejos básicos de salud dental.
