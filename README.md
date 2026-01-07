@@ -55,3 +55,5 @@
 | [Clase4_1_1](./teoria/modulo4/clase4_1_1.md)                   | 4.1 Análisis de sentimiento con ChatGPT y Perplexity  |
 | [Clase4_1_2](./teoria/modulo4/clase4_1_2.md)                   | Ejemplos prácticos  |
 | [Clase4_1_3](./teoria/modulo4/clase4_1_3.md)                   | Ejemplo en Python  |
+| [Clase4_2_1](./teoria/modulo4/clase4_2_1.md)                   | 4.2 Chatbots con IA para atención básica al cliente  |
+| [Clase4_3_1](./teoria/modulo4/clase4_3_1.md)                   | 4.3 Creación de propuestas de venta automatizadas y personalizadas  |
