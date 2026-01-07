@@ -70,7 +70,7 @@ En la siguiente tabla podemos ver algunos ejemplos:
 | Darwin AI   | Marketing / Ventas            | Enfocado en "empleados de IA" que reactivan leads por WhatsApp.              |
 | Zendesk AI  | Soporte masivo                | Ideal para empresas que ya tienen un gran volumen de tickets.                |
 
-## 5. 3. Evolución: De Chatbots a "Agentes de IA"
+## 5. Evolución: De Chatbots a "Agentes de IA"
 Evolución que se ha ido viendo: 
 
 - Multimodalidad: Los bots ya no solo leen texto. Pueden "ver" una foto de una reserva o "escuchar" un audio de un cliente.
