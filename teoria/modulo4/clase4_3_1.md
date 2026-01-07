@@ -32,7 +32,9 @@ El objetivo es que la Pyme pase de ser solo un "tomador de pedidos" a un "genera
 
 - Cómo funciona: Configuramos un "vigilante" en nuestra base de datos (CRM o Excel). Este vigilante busca eventos específicos.
 
-- Ejemplos de criterios en 2026: * Inactividad: "Cliente que gastó >500€ el año pasado pero lleva 90 días sin comprar".
+Ejemplos de criterios en 2026: 
+
+- Inactividad: "Cliente que gastó >500€ el año pasado pero lleva 90 días sin comprar".
 
 - Comportamiento: "Cliente que ha abierto 3 veces el email sobre el nuevo menú de temporada pero no ha reservado".
 
