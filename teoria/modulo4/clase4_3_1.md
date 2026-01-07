@@ -70,7 +70,7 @@ El objetivo es que la Pyme pase de ser solo un "tomador de pedidos" a un "genera
 
 3. Seguimiento automático: Si el cliente hace clic en el enlace pero no reserva en 24 horas, la IA puede enviar un recordatorio suave: "Hola Juan, ¿viste la propuesta para la cena? Solo nos quedan 2 mesas para ese viernes".
 
-### Ejemplo Real para la Clase (Basado en el Menú de Casa Carmen)
+### Ejemplo Real (Basado en el Menú de Casa Carmen)
 
 1. Detección: El Excel de reservas muestra que la "Empresa Tech" no viene desde Navidad.
 
