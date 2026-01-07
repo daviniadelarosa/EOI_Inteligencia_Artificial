@@ -37,7 +37,7 @@ Pasos simples para hacer una práctica:
 
 [Video_Ejemplo_1](https://www.youtube.com/watch?v=654BzA_c4Zs)
 
-[Video_Ejemplo_2](https://www.youtube.com/watch?v=654BzA_c4Zs)
+[Video_Ejemplo_2](https://youtu.be/NnQB2583rwQ)
 
 ## 3. ¿Cómo funcionan realmente los chatbots de IA?
 
