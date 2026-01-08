@@ -57,3 +57,5 @@
 | [Clase4_1_3](./teoria/modulo4/clase4_1_3.md)                   | Ejemplo en Python  |
 | [Clase4_2_1](./teoria/modulo4/clase4_2_1.md)                   | 4.2 Chatbots con IA para atención básica al cliente  |
 | [Clase4_3_1](./teoria/modulo4/clase4_3_1.md)                   | 4.3 Creación de propuestas de venta automatizadas y personalizadas  |
+| [Clase4_4_1](./teoria/modulo4/clase4_4_1.md)                   | 4.4 Automatización de seguimientos y recordatorios con IA  |
+| [Clase4_5_1](./teoria/modulo4/clase4_5_1.md)                   | 4.5 Chatbots e IA en la relación con el cliente: ética y límites  |
