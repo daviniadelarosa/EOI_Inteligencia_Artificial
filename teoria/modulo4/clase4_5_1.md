@@ -49,7 +49,7 @@ Tres casos que cambiaron las reglas del juego:
 
 - El caso Chevrolet (El coche a 1 dólar): Un usuario manipuló el chatbot de un concesionario (usando prompt injection) para que aceptara venderle un Chevy Tahoe por 1 dólar. El bot respondió: "Es un trato, es un acuerdo legalmente vinculante".
 
-## 4. Cuestiones que a tener en cuenta
+## 4. Cuestiones a tener en cuenta
 
 - Sesgos en la Atención: Si el chatbot de "Casa Carmen" prioriza reservas de personas con ciertos apellidos o procedencias (por sesgos en los datos de entrenamiento), la Pyme está cometiendo una falta ética grave. Solución: Auditoría de respuestas.
 
@@ -68,7 +68,7 @@ Debemos concienciarnos de que cada vez que su chatbot responde, se activa una ma
 
 - Residuos electrónicos (E-waste): La carrera por la IA obliga a renovar chips (GPUs) cada muy poco tiempo, generando toneladas de residuos difíciles de reciclar.
 
-### B. Estrategias de "IA con Sentido" para Pymes (10 min)
+### B. Estrategias de "IA con Sentido" para Pymes
 No se trata de no usar IA, sino de usarla donde realmente aporta valor.
 
 - No matar moscas a cañonazos: No uses el modelo más potente y pesado (como GPT-4o) para tareas simples como corregir una falta de ortografía o saludar. Usa modelos más pequeños y eficientes (Small Language Models o versiones "Mini").
