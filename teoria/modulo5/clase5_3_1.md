@@ -65,3 +65,5 @@ Tenemos estos tres beneficios:
 "Automatizar no es sustituir al gestor, es liberar al gestor de labores administrativas repetitivas. En lugar de pasar tiempo al día picando facturas, el gestor pasa ese tiempo asesorando al cliente sobre cómo ahorrar impuestos. La IA hace el trabajo de bajo valor, el humano hace el de alto valor".
 
 [Video_Make](https://www.youtube.com/watch?v=hPi5x2kVmbg)
+
+[Video_Zapier](https://www.youtube.com/watch?v=rcOlnkxlHGc)
