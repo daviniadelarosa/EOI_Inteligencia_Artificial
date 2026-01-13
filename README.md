@@ -66,4 +66,4 @@
 | --------------------------------------------------------- | -------------------------------------------------- | 
 | [Clase5_1_1](./teoria/modulo5/clase5_1_1.md)                   | 5.1 Automatización de emails, informes y presentaciones  |
 | [Clase5_2_1](./teoria/modulo5/clase5_2_1.md)                   | 5.2 Uso de asistentes IA en Google Workspace, y Microsoft Copilot |
-| [Clase5_3_1](./teoria/modulo5/clase5_3_1.md)                   | 5.3 Introducción a herramientas como Microsoft Power Automate, Zapier o Make para crear flujos automáticos con IA.  |
+| [Clase5_3_1](./teoria/modulo5/clase5_3_1.md)                   | 5.3 Introducción a herramientas como Microsoft Power Automate, Zapier o Make para crear flujos automáticos con IA  |
