@@ -14,7 +14,7 @@ En España y Europa, el RGPD es muy estricto, especialmente con datos de "catego
 
 - El "DPA" (Data Processing Agreement): Antes de usar una IA con datos de clientes, debes asegurarte de que la herramienta cumple con el RGPD. Microsoft y Google incluyen estas cláusulas en sus versiones de pago.
 
-- Anonimización Proactiva: Como buena práctica, enseña a tus alumnos que, aunque usen versiones seguras, es mejor no darle a la IA datos identificativos si no es necesario.
+- Anonimización Proactiva: Como buena práctica, aunque se usen versiones seguras, es mejor no darle a la IA datos identificativos si no es necesario.
 
 Mal: "Resume este informe médico del paciente Juan García con DNI 12345678X".
 
