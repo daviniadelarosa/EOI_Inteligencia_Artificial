@@ -31,7 +31,7 @@
 | [Clase2_4_1](./teoria/modulo2/clase2_4_1.md)                   | 2.4 Personalización de mensajes y segmentación de audiencias con IA  |
 | [Clase2_4_2](./teoria/modulo2/clase2_4_2.md)                   | Ejemplo y vídeos |
 | [Clase2_5_1](./teoria/modulo2/clase2_5_1.md)                   | 2.5 Uso responsable de la IA en contenidos y redes sociales                                      |
-| [Clase2_6_1](./teoria/modulo2/clase2_6_1.md)                   | 2.6 La IA en marketing digital. Presentaciones de alto impacto |
+| [Clase2_5_2](./teoria/modulo2/clase2_5_1.md)                   | 2.5 La IA en marketing digital. Presentaciones de alto impacto |
 
 
 ## Módulo 3: Propuestas comerciales personalizadas
@@ -67,5 +67,6 @@
 | [Clase5_1_1](./teoria/modulo5/clase5_1_1.md)                   | 5.1 Automatización de emails, informes y presentaciones  |
 | [Clase5_2_1](./teoria/modulo5/clase5_2_1.md)                   | 5.2 Uso de asistentes IA en Google Workspace, y Microsoft Copilot |
 | [Clase5_3_1](./teoria/modulo5/clase5_3_1.md)                   | 5.3 Introducción a herramientas como Microsoft Power Automate, Zapier o Make para crear flujos automáticos con IA  |
+| [Automatizacion](./teoria/modulo5/automatizacion.md) | Ejercicio automatización  |
 | [Clase5_4_1](./teoria/modulo5/clase5_4_1.md)                   | 5.4 Organización y análisis de datos internos con IA |
 | [Clase5_5_1](./teoria/modulo5/clase5_5_1.md)                   | 5.5 Implementación segura y legal de IA en procesos internos |
