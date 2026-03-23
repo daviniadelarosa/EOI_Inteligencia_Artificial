@@ -49,18 +49,6 @@ DALL·E es el modelo de generación de imágenes de OpenAI. A partir de una desc
 
 Para entender cómo funciona y ver ejemplos reales, se recomienda ver este vídeo antes o durante la clase:
 
----
-
-**📺 Vídeo recomendado — DALL·E**
-
-- **Canal:** Dot CSV
-- **Título:** *«DALL·E 3: la IA que genera imágenes PERFECTAS»*
-- **Duración:** ~9 minutos · Nivel: básico · Idioma: español
-- **Dónde buscarlo:** YouTube → buscar `Dot CSV DALL-E 3`
-- **Por qué este vídeo:** muestra en directo cómo escribir prompts de imagen, compara resultados y explica los límites de la herramienta. Perfecto para un público sin experiencia previa.
-
----
-
 ### Herramienta para la práctica: Adobe Firefly
 
 Para el ejercicio usaremos **Adobe Firefly**, por tres razones prácticas:
